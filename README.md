@@ -1,4 +1,4 @@
-# pyspeedbind
+# pyspeedbinb
 Decryptor for SpeedBinB scrambed image.
 
 Analyzed and Written by Gemini 2.5 Flash. The code has been confirmed.
